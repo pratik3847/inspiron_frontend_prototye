@@ -31,7 +31,6 @@ This project solves that by providing:
 | **837I**             | Institutional healthcare claims    |
 | **835**              | Claim payment & remittance advice  |
 | **834**              | Member enrollment & insurance data |
-| **845** *(optional)* | Price authorization / purchasing   |
 
 ---
 
